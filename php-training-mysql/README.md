@@ -1,4 +1,4 @@
-> WIP: gérér les messages d'erreur si les champs sont vides (validation). 
+> WIP: gérér les messages d'erreur si les champs sont vides (validation) / créer une page login et gérér les droits de session.
 
 # PHP & MySQL
 
