@@ -1,0 +1,21 @@
+body{
+  font-family: sans-serif !important;
+}
+
+a{
+  color: black;
+}
+
+label, select, input{
+  width: 150px;
+  display: inline-block;
+  margin: 5px 0;
+}
+
+.success{
+  right: 20px;
+  top: 0px;
+  font-size: 25px;
+  color: green;
+  position: absolute;
+}
