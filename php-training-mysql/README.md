@@ -1,4 +1,4 @@
-> Le contenu de ce dossier doit être placé dans votre répertoire apache (`/var/www/html` ou `htdocs` ou ... )
+> WIP: gérér les messages d'erreur si les champs sont vides (validation). 
 
 # PHP & MySQL
 
